@@ -1,0 +1,33 @@
+a {
+    background-color:lightgray;
+    border-style:solid;
+    border-color:black;
+    border-width:0.1em;
+    font-weight:bold;
+    margin-left:0.2em;
+    text-decoration:none;
+    
+}
+
+a:hover
+{
+    color:aliceblue;
+    background-color:lightgray;
+    border-style:solid;
+    border-color:black;
+    border-width:0.1em;
+    font-weight:bold;
+    margin-left:0.2em;
+    text-decoration:none;
+}
+
+
+form > *{
+    display:block;
+}
+
+table,td,th {
+    border-style: solid;
+    border-collapse:collapse;
+    border-width:1px;
+}
